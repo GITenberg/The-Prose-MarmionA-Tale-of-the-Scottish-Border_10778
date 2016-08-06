@@ -1,0 +1,36 @@
+_repo: The-Prose-MarmionA-Tale-of-the-Scottish-Border_10778
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jenkins, Sara Davis
+    alias: Jenkins, Sara D.
+    gutenberg_agent_id: '3680'
+    url: http://www.gutenberg.org/2009/agents/3680
+  - agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Flodden, Battle of, England, 1513 -- Juvenile fiction'
+- GITenberg
+title: 'The Prose Marmion
+
+  A Tale of the Scottish Border'
+url: http://www.gutenberg.org/ebooks/10778
